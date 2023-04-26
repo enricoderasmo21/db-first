@@ -1,0 +1,10 @@
+ID - SMALLINT - Primary key, UNIQUE, AUTO_INCREMENT, NOT_NULL
+Brand - VARCHAR (255) - NOT_NULL 
+Model - VARCHAR (255) - NOT_NULL
+Fuel_type - VARCHAR (20) - NULL
+KM - SMALLINT - MEDIUMINT - NOT_NULL
+Status - VARCHAR (20) - NULL
+Category - VARCHAR (20) - NULL
+Description - TEXT - NULL
+Enrollment_year - YEAR - NOT_NULL
+Price - MEDIUMINT - NOT_NULL
